@@ -48,6 +48,11 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
+**MARKS SPLIT-UP**
+
+<img width="806" height="508" alt="image" src="https://github.com/user-attachments/assets/7664615b-4829-428f-bf14-99b472d3ce11" />
+
+
 **RESULT:**
 
 Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	V supply are:
